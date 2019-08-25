@@ -1,15 +1,3 @@
-'''
-Step 0 : Importing the libraries
-Step 1 : Locating a patha to the stored file
-Step 2: Preprocessing --> Grayscaling/Resizing/Format changing (Skipped)
-Step 3: Create an array that has all the images flattened out. Array is type <ndarray>
-Step 4: Define the label for the images. Array is of <ndarray> type. Part of supervised learning.
-Step 5: Let's shuffle the order of images and labels. Corresponding images would be shuffled with their labels.
-Step 6:
-Step 7:
-
-'''
-
 import keras
 from PIL import Image
 
